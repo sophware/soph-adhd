@@ -1,20 +1,9 @@
+
 <p align="center">
-  <img src="./logo.png" alt="i-have-adhd" width="140" />
-</p>
-<p align="center">
-  <strong align="center">ADHD-friendly outputs. No ADHD diagnosis needed!</strong>
+  <strong align="center">ADHD-friendly outputs. Forked from https://github.com/ayghri/i-have-adhd The rest of this readme needs updating. it is not accurate.</strong>
 </p>
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat" alt="License"></a>
-</p>
-
-<p align="center">
-  <strong>English</strong> ·
-  <a href=".github/readme/README.zh-CN.md">简体中文</a> ·
-  <a href=".github/readme/README.ja.md">日本語</a> ·
-  <a href=".github/readme/README.ko.md">한국어</a> ·
-  <a href=".github/readme/README.vi.md">Tiếng Việt</a> ·
-  <a href=".github/readme/README.pt-BR.md">Português (BR)</a>
 </p>
 
 
